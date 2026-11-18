@@ -1,0 +1,35 @@
+schema_version: 1
+task: yam_sponge
+model_name: yam_sponge_act
+output_dir: ../../../ckpts
+# Upstream Flash ALOHA recipe (bimanual_act.yaml) at 60 Hz: decoder-only ACT, ResNet18 per camera,
+# bf16, 1.0 s chunks, batch 128, 100k steps.
+model:
+  type: ACT
+  backbone: resnet18
+  hidden_dim: 512
+  dec_layers: 7
+  nheads: 8
+  dropout: 0.1
+  # 1.0 s at 60 Hz.
+  chunk_size: 60
+training:
+  method: standard
+  batch_size: 128
+  lr: 0.00012
+  lr_backbone: 0.00001
+  num_steps: 100000
+  eval_every: 50000
+  validate_every: 4000
+  save_every: 20000
+  data_aug: true
+  wandb: false
+  finetune: false
+  training_time_rtc: false
+  frame_store: true
+  compile: true
+  compile_mode: default
+  num_dataloader_workers: 16
+  wandb_log_every: 50
+data:
+  train_ratio: 1.0

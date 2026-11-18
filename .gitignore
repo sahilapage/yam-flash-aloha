@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# never commit data, checkpoints or logs
+*.ckpt
+*.pkl
+*.npz
+*.npy
+*.mp4
+*.tar
+*.zarr/
+datasets/
+ckpts/
+logs/
+wandb/

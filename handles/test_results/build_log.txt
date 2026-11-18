@@ -1,0 +1,15 @@
+<venv>/site-packages/cadquery/utils.py:82: FutureWarning: save will be removed in the next release.
+  warn(f"{f.__name__} will be removed in the next release.", FutureWarning)
+interface z=-70.4  spacer 6.0 mm  handle height 20.0 mm  closed gap 4.0 mm
+thumb-to-finger pad distance: 15.2 mm closed, 110.2 mm fully open
+RH_thumb_ring_jawL       valid=True solids=1 vol= 29.8 cm3 x[-33.9,75.7] y[-32.0,-2.0] z[-90.4,-70.4]
+RH_finger_loop_jawR      valid=True solids=1 vol= 45.4 cm3 x[-12.6,133.0] y[2.0,38.0] z[-90.4,-70.4]
+LH_finger_loop_jawL      valid=True solids=1 vol= 50.1 cm3 x[-33.9,133.0] y[-38.0,-2.0] z[-90.4,-70.4]
+LH_thumb_ring_jawR       valid=True solids=1 vol= 25.1 cm3 x[-12.6,75.7] y[2.0,32.0] z[-90.4,-70.4]
+fit_test_spacer_jawL     valid=True solids=1 vol=  5.4 cm3 x[-33.9,12.6] y[-23.2,-3.0] z[-76.4,-70.4]
+fit_test_spacer_jawR     valid=True solids=1 vol=  5.4 cm3 x[-12.6,33.9] y[3.0,23.2] z[-76.4,-70.4]
+fitkit_thumb_liner_1p5mm valid=True solids=1 vol=  2.5 cm3
+fitkit_thumb_liner_3mm   valid=True solids=1 vol=  4.5 cm3
+fitkit_finger_pad_3mm    valid=True solids=1 vol=  2.8 cm3
+fitkit_finger_pad_6mm    valid=True solids=1 vol=  4.9 cm3
+done

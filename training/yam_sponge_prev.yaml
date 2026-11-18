@@ -1,0 +1,27 @@
+# YAM sponge task with top_prev = masked top video delayed 6 frames (100 ms): two top frames so the
+# policy can see the ball move. Source episode 20 (operator head in view) and episode 2 dropped.
+# Top cameras carry the FK hand mask (sha256 059f0c29...); rollout must mask both at full res.
+schema_version: 1
+task:
+  name: yam_sponge_prev
+control_freq: 60
+data:
+  directory: DATA_DIR
+robot:
+  type: arx
+  arms:
+    right:
+      model: L5
+      can_interface: can1
+      command_timeout_s: 0.5
+      max_feedback_age_s: 0.1
+cameras:
+  names: [top, top_prev, right_wrist]
+camera_settings: {}
+collection:
+  max_duration_seconds: 30
+training:
+  observations: [qpos]
+  outputs: [action]
+  state_dim: 7
+  action_dim: 7

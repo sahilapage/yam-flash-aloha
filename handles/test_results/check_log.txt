@@ -1,0 +1,132 @@
+watertight: {'body': True, 'D405': True, 'carriageL': True, 'fingerL': True, 'carriageR': True, 'fingerR': True}
+RH s=  0.0 RH_thumb_ring_jawL     body:in=0,gap=6.90  D405:in=0,gap=17.68  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=5.12
+RH s=  0.0 RH_finger_loop_jawR    body:in=0,gap=6.90  D405:in=0,gap=27.75  carriageL:in=0,gap=1.31  fingerL:in=0,gap=5.07  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s=  0.0 handle-to-handle gap=4.00 in=0
+RH s=  1.0 RH_thumb_ring_jawL     body:in=0,gap=6.90  D405:in=0,gap=17.67  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=6.99
+RH s=  1.0 RH_finger_loop_jawR    body:in=0,gap=6.90  D405:in=0,gap=27.76  carriageL:in=0,gap=1.31  fingerL:in=0,gap=6.97  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s=  1.0 handle-to-handle gap=6.00 in=0
+RH s=  2.5 RH_thumb_ring_jawL     body:in=0,gap=6.90  D405:in=0,gap=17.67  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=9.89
+RH s=  2.5 RH_finger_loop_jawR    body:in=0,gap=6.90  D405:in=0,gap=27.75  carriageL:in=0,gap=1.31  fingerL:in=0,gap=9.87  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s=  2.5 handle-to-handle gap=9.00 in=0
+RH s=  5.0 RH_thumb_ring_jawL     body:in=0,gap=6.90  D405:in=0,gap=17.76  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=14.81
+RH s=  5.0 RH_finger_loop_jawR    body:in=0,gap=6.90  D405:in=0,gap=27.75  carriageL:in=0,gap=1.32  fingerL:in=0,gap=14.76  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s=  5.0 handle-to-handle gap=14.00 in=0
+RH s=  7.5 RH_thumb_ring_jawL     body:in=0,gap=6.94  D405:in=0,gap=18.02  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=19.74
+RH s=  7.5 RH_finger_loop_jawR    body:in=0,gap=6.92  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=19.70  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s=  7.5 handle-to-handle gap=19.00 in=0
+RH s= 10.0 RH_thumb_ring_jawL     body:in=0,gap=7.49  D405:in=0,gap=18.51  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=24.68
+RH s= 10.0 RH_finger_loop_jawR    body:in=0,gap=7.46  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=24.64  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 10.0 handle-to-handle gap=24.00 in=0
+RH s= 12.5 RH_thumb_ring_jawL     body:in=0,gap=8.75  D405:in=0,gap=19.22  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=29.61
+RH s= 12.5 RH_finger_loop_jawR    body:in=0,gap=8.69  D405:in=0,gap=27.78  carriageL:in=0,gap=1.31  fingerL:in=0,gap=29.59  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 12.5 handle-to-handle gap=29.00 in=0
+RH s= 15.0 RH_thumb_ring_jawL     body:in=0,gap=10.45  D405:in=0,gap=20.17  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=34.55
+RH s= 15.0 RH_finger_loop_jawR    body:in=0,gap=10.39  D405:in=0,gap=27.78  carriageL:in=0,gap=1.31  fingerL:in=0,gap=34.53  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 15.0 handle-to-handle gap=34.00 in=0
+RH s= 17.5 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=21.33  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=39.50
+RH s= 17.5 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=27.79  carriageL:in=0,gap=1.31  fingerL:in=0,gap=39.49  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 17.5 handle-to-handle gap=39.00 in=0
+RH s= 20.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=22.70  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.32  fingerR:in=0,gap=44.46
+RH s= 20.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=27.87  carriageL:in=0,gap=1.32  fingerL:in=0,gap=44.45  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 20.0 handle-to-handle gap=44.00 in=0
+RH s= 22.5 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=24.17  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.91  fingerR:in=0,gap=49.43
+RH s= 22.5 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=28.08  carriageL:in=0,gap=1.93  fingerL:in=0,gap=49.42  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 22.5 handle-to-handle gap=49.00 in=0
+RH s= 25.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=25.51  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=5.09  fingerR:in=0,gap=54.40
+RH s= 25.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=28.39  carriageL:in=0,gap=5.63  fingerL:in=0,gap=54.40  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 25.0 handle-to-handle gap=54.00 in=0
+RH s= 30.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=26.44  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=14.80  fingerR:in=0,gap=64.35
+RH s= 30.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=29.60  carriageL:in=0,gap=15.06  fingerL:in=0,gap=64.35  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 30.0 handle-to-handle gap=64.00 in=0
+RH s= 35.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=28.20  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=24.68  fingerR:in=0,gap=74.32
+RH s= 35.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=31.32  carriageL:in=0,gap=24.91  fingerL:in=0,gap=74.31  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 35.0 handle-to-handle gap=74.00 in=0
+RH s= 40.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=30.68  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=34.42  fingerR:in=0,gap=84.28
+RH s= 40.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=33.70  carriageL:in=0,gap=34.84  fingerL:in=0,gap=84.28  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 40.0 handle-to-handle gap=84.00 in=0
+RH s= 45.0 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=33.72  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=44.27  fingerR:in=0,gap=94.25
+RH s= 45.0 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=36.57  carriageL:in=0,gap=44.80  fingerL:in=0,gap=94.25  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 45.0 handle-to-handle gap=94.00 in=0
+RH s= 47.5 RH_thumb_ring_jawL     body:in=0,gap=12.10  D405:in=0,gap=35.41  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=49.21  fingerR:in=0,gap=99.24
+RH s= 47.5 RH_finger_loop_jawR    body:in=0,gap=12.10  D405:in=0,gap=38.17  carriageL:in=0,gap=49.79  fingerL:in=0,gap=99.24  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+RH s= 47.5 handle-to-handle gap=99.00 in=0
+LH s=  0.0 LH_finger_loop_jawL    body:in=0,gap=6.90  D405:in=0,gap=17.66  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=5.14
+LH s=  0.0 LH_thumb_ring_jawR     body:in=0,gap=6.90  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=5.09  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s=  0.0 handle-to-handle gap=4.00 in=0
+LH s=  1.0 LH_finger_loop_jawL    body:in=0,gap=6.90  D405:in=0,gap=17.66  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=7.01
+LH s=  1.0 LH_thumb_ring_jawR     body:in=0,gap=6.90  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=6.96  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s=  1.0 handle-to-handle gap=6.00 in=0
+LH s=  2.5 LH_finger_loop_jawL    body:in=0,gap=6.90  D405:in=0,gap=17.66  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=9.91
+LH s=  2.5 LH_thumb_ring_jawR     body:in=0,gap=6.90  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=9.86  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s=  2.5 handle-to-handle gap=9.00 in=0
+LH s=  5.0 LH_finger_loop_jawL    body:in=0,gap=6.90  D405:in=0,gap=17.81  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=14.81
+LH s=  5.0 LH_thumb_ring_jawR     body:in=0,gap=6.90  D405:in=0,gap=27.78  carriageL:in=0,gap=1.31  fingerL:in=0,gap=14.77  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s=  5.0 handle-to-handle gap=14.00 in=0
+LH s=  7.5 LH_finger_loop_jawL    body:in=0,gap=6.95  D405:in=0,gap=18.12  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=19.73
+LH s=  7.5 LH_thumb_ring_jawR     body:in=0,gap=6.92  D405:in=0,gap=27.75  carriageL:in=0,gap=1.31  fingerL:in=0,gap=19.70  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s=  7.5 handle-to-handle gap=19.00 in=0
+LH s= 10.0 LH_finger_loop_jawL    body:in=0,gap=7.55  D405:in=0,gap=18.63  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=24.69
+LH s= 10.0 LH_thumb_ring_jawR     body:in=0,gap=7.47  D405:in=0,gap=27.75  carriageL:in=0,gap=1.31  fingerL:in=0,gap=24.64  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 10.0 handle-to-handle gap=24.00 in=0
+LH s= 12.5 LH_finger_loop_jawL    body:in=0,gap=8.79  D405:in=0,gap=19.33  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=29.62
+LH s= 12.5 LH_thumb_ring_jawR     body:in=0,gap=8.72  D405:in=0,gap=27.76  carriageL:in=0,gap=1.31  fingerL:in=0,gap=29.58  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 12.5 handle-to-handle gap=29.00 in=0
+LH s= 15.0 LH_finger_loop_jawL    body:in=0,gap=10.49  D405:in=0,gap=20.28  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.32  fingerR:in=0,gap=34.56
+LH s= 15.0 LH_thumb_ring_jawR     body:in=0,gap=10.42  D405:in=0,gap=27.77  carriageL:in=0,gap=1.31  fingerL:in=0,gap=34.53  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 15.0 handle-to-handle gap=34.00 in=0
+LH s= 17.5 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=21.43  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=39.52
+LH s= 17.5 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=27.78  carriageL:in=0,gap=1.31  fingerL:in=0,gap=39.48  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 17.5 handle-to-handle gap=39.00 in=0
+LH s= 20.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=22.79  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.31  fingerR:in=0,gap=44.48
+LH s= 20.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=27.79  carriageL:in=0,gap=1.31  fingerL:in=0,gap=44.45  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 20.0 handle-to-handle gap=44.00 in=0
+LH s= 22.5 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=24.26  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=1.88  fingerR:in=0,gap=49.45
+LH s= 22.5 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=27.89  carriageL:in=0,gap=1.75  fingerL:in=0,gap=49.42  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 22.5 handle-to-handle gap=49.00 in=0
+LH s= 25.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=25.51  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=5.10  fingerR:in=0,gap=54.42
+LH s= 25.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=28.14  carriageL:in=0,gap=5.47  fingerL:in=0,gap=54.39  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 25.0 handle-to-handle gap=54.00 in=0
+LH s= 30.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=26.40  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=14.80  fingerR:in=0,gap=64.38
+LH s= 30.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=29.21  carriageL:in=0,gap=15.00  fingerL:in=0,gap=64.35  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 30.0 handle-to-handle gap=64.00 in=0
+LH s= 35.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=28.17  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=24.74  fingerR:in=0,gap=74.34
+LH s= 35.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=30.96  carriageL:in=0,gap=24.87  fingerL:in=0,gap=74.32  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 35.0 handle-to-handle gap=74.00 in=0
+LH s= 40.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=30.67  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=34.49  fingerR:in=0,gap=84.30
+LH s= 40.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=33.35  carriageL:in=0,gap=34.82  fingerL:in=0,gap=84.28  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 40.0 handle-to-handle gap=84.00 in=0
+LH s= 45.0 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=33.72  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=44.32  fingerR:in=0,gap=94.27
+LH s= 45.0 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=36.25  carriageL:in=0,gap=44.78  fingerL:in=0,gap=94.25  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 45.0 handle-to-handle gap=94.00 in=0
+LH s= 47.5 LH_finger_loop_jawL    body:in=0,gap=12.10  D405:in=0,gap=35.40  carriageL:own in=0,gap=0.02  fingerL:own in=0,gap=0.02  carriageR:in=0,gap=49.26  fingerR:in=0,gap=99.26
+LH s= 47.5 LH_thumb_ring_jawR     body:in=0,gap=12.10  D405:in=0,gap=37.86  carriageL:in=0,gap=49.77  fingerL:in=0,gap=99.24  carriageR:own in=0,gap=0.02  fingerR:own in=0,gap=0.02
+LH s= 47.5 handle-to-handle gap=99.00 in=0
+
+=== SUMMARY (worst case over all openings) ===
+RH RH_thumb_ring_jawL     vs body       min gap 6.90 mm at s=1.0  samples inside: 0  OK
+RH RH_thumb_ring_jawL     vs D405       min gap 17.67 mm at s=1.0  samples inside: 0  OK
+RH RH_thumb_ring_jawL     vs carriageL  (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+RH RH_thumb_ring_jawL     vs fingerL    (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+RH RH_thumb_ring_jawL     vs carriageR  min gap 1.31 mm at s=12.5  samples inside: 0  OK
+RH RH_thumb_ring_jawL     vs fingerR    min gap 5.12 mm at s=0.0  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs body       min gap 6.90 mm at s=5.0  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs D405       min gap 27.75 mm at s=5.0  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs carriageL  min gap 1.31 mm at s=7.5  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs fingerL    min gap 5.07 mm at s=0.0  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs carriageR  (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+RH RH_finger_loop_jawR    vs fingerR    (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+RH handle-to-handle       vs            min gap 4.00 mm at s=0.0  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs body       min gap 6.90 mm at s=0.0  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs D405       min gap 17.66 mm at s=2.5  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs carriageL  (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs fingerL    (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs carriageR  min gap 1.31 mm at s=7.5  samples inside: 0  OK
+LH LH_finger_loop_jawL    vs fingerR    min gap 5.14 mm at s=0.0  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs body       min gap 6.90 mm at s=2.5  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs D405       min gap 27.75 mm at s=7.5  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs carriageL  min gap 1.31 mm at s=17.5  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs fingerL    min gap 5.09 mm at s=0.0  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs carriageR  (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+LH LH_thumb_ring_jawR     vs fingerR    (own jaw, touches by design) min gap 0.02 mm at s=0.0  samples inside: 0  OK
+LH handle-to-handle       vs            min gap 4.00 mm at s=0.0  samples inside: 0  OK
+RESULT: PASS
